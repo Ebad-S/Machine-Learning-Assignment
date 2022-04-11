@@ -44,8 +44,10 @@ Because credit risk is an inherently imbalanced classification problem (the numb
 <h2> Notebooks </h2>
     
 There are two notebooks to in `.ipynb` format:
-[Resampling Notebook](/credit_risk_resampling.ipynb)
-[Ensemble Notebook](/credit_risk_ensemble.ipynb)
+	
+[Resampling Notebook](Codes/credit_risk_resampling.ipynb)
+	
+[Ensemble Notebook](Codes/credit_risk_ensemble.ipynb)
 
 </div>
 <br>
