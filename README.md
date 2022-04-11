@@ -3,13 +3,13 @@
 <h1 align="center">Assignment Unit 11 - Risky Business</h1>
 
 <div align="center">    
-    <div align="center"><img src="images/risky1.png"/></div>
+    <div align="center"><img src="/images/risky1.png"/></div>
     <section><b> By: Ebad Salehi</b></section>
     <img src="images/devider.png"/>
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details align="center">
+<details>
   <summary> <b>Table of Contents</b></summary>
   <ol>
         <li><a href="#in-a-nutshell"> In a Nutshell</a> </li>   
