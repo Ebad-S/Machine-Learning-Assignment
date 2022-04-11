@@ -3,9 +3,9 @@
 <h1 align="center">Assignment Unit 11 - Risky Business</h1>
 
 <div align="center">    
-    <div align="center"><img src="/images/risky1.png"/></div>
+    <div align="center"><img src="Images/risky1.png"/></div>
     <section><b> By: Ebad Salehi</b></section>
-    <img src="images/devider.png"/>
+    <img src="Images/devider.png"/>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -25,8 +25,8 @@
 <div id="in-a-nutshell">
 
 <h2> In a Nutshell </h2>
-In this repo, several **Machine Learning models** are evaluated against each other to predict 'Credit Risk' using data from peer-to-peer lending services.
-Because credit risk is an inherently imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans), hence the employing different training and evaluation models with imbalanced classes. In this assignmnet folowing **python libraries** are used:
+In this repo, several <b>Machine Learning models</b> are evaluated against each other to predict 'Credit Risk' using data from peer-to-peer lending services.
+Because credit risk is an inherently imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans), hence the employing different training and evaluation models with imbalanced classes. In this assignmnet folowing <i>python libraries</i> are used:
 
  - `imbalanced-learn`
  - `Scikit-learn` 
@@ -58,7 +58,7 @@ There are two notebooks to in `.ipynb` format:
 
 <p> Snapshot of SMOTEEN Report: </p>
 <div align="center">    
-    <img src="images/smoteen-report.PNG"/>
+    <img src="Images/smoteen-report.PNG"/>
 </div>
 
 <h2> Resampling Output </h2>
@@ -87,7 +87,7 @@ There are two notebooks to in `.ipynb` format:
 
 </div>
 
-----
+
 <div id="ensemble">
 
 ## Ensemble Learning
@@ -100,7 +100,7 @@ In this section, we compare two ensemble algorithms `Balanced Random Forest Clas
 
 <p> Snapshot of Features Listed By Importance: </p>
   <div align="center">    
-    <img src="images/features_list.PNG"/>
+    <img src="Images/features_list.PNG"/>
   </div>  
 
 <h3>Ensemble Learning Questions:</h3>
