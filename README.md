@@ -50,6 +50,7 @@ There are two notebooks to in `.ipynb` format:
 [Ensemble Notebook](Codes/credit_risk_ensemble.ipynb)
 
 </div>
+
 <br>
 
 <div id="resampling">
