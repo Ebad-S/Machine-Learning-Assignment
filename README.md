@@ -3,24 +3,29 @@
 <h1 align="center">Assignment Unit 11 - Risky Business</h1>
 
 <div align="center">    
-    <div align="center"><img src="Images/risky1.png"/></div>
-    <section><b> By: Ebad Salehi</b></section>
-    <img src="Images/devider.png"/>
+    <section><img src="Images/risky1.png"/></section>
+    <section> <b>By: Ebad Salehi </b> </section>
 </div>
 
+<br><br>
+<div align="center">
+———————— ≡₪₪₪₪≡■■■■■■■■■■■■■■■■■■≡₪₪₪₪≡ ————————
+<br><br>
 <!-- TABLE OF CONTENTS -->
-<details>
+<details align="center">
   <summary> <b>Table of Contents</b></summary>
-  <ol>
+  <ul>
         <li><a href="#in-a-nutshell"> In a Nutshell</a> </li>   
         <li><a href="#files">Notebooks</a></li>
         <li><a href="#resampling"> Resampling Steps and Output</a></li>
         <li><a href="#ensemble">Ensemble Learning</a></li>  
         <li><a href="#tech">Technologies Used</a></li>    
-  </ol>
+  </ul>
 </details>
-
+———————— ≡₪₪₪₪≡■■■■■■■■■■■■■■■■■■≡₪₪₪₪≡ ————————
+</div>
 <br>
+
 
 <div id="in-a-nutshell">
 
@@ -32,6 +37,7 @@ Because credit risk is an inherently imbalanced classification problem (the numb
  - `Scikit-learn` 
 
 </div>
+<br>
 
 <div id="files">
 
@@ -42,6 +48,7 @@ There are two notebooks to in `.ipynb` format:
 [Ensemble Notebook](/credit_risk_ensemble.ipynb)
 
 </div>
+<br>
 
 <div id="resampling">
 
@@ -60,8 +67,9 @@ There are two notebooks to in `.ipynb` format:
 <div align="center">    
     <img src="Images/smoteen-report.PNG"/>
 </div>
-
-<h2> Resampling Output </h2>
+<br>
+	
+<h3> Resampling Output </h3>
 
 **Balanced Accuracy Scores:**    
 > - Simple Logistic Regression: 0.95432
@@ -84,13 +92,12 @@ There are two notebooks to in `.ipynb` format:
 > -   Undersampling (ClusterCentroids): 0.99
 > -   Combination Sampling (SMOTEEN): 0.99
 
-
 </div>
-
+<br>
 
 <div id="ensemble">
 
-## Ensemble Learning
+<h2> Ensemble Learning </h2>
 
 In this section, we compare two ensemble algorithms `Balanced Random Forest Classifier` and `Easy Ensemble classifier` to determine which algorithm results in the best performance. 
     
@@ -118,15 +125,16 @@ In this section, we compare two ensemble algorithms `Balanced Random Forest Clas
 
 4. What are the top three features?
 
- >1. (0.06862801182224613, 'total_rec_prncp')
- >2. (0.06038649619780159, 'total_rec_int')
- >3. (0.05905244774386602, 'total_pymnt')
+	 >1. (0.06862801182224613, 'total_rec_prncp')
+	 >2. (0.06038649619780159, 'total_rec_int')
+	 >3. (0.05905244774386602, 'total_pymnt')
 </div>
 
 
 <div id="tech">
-
-## Technologies Used
+	
+<h2> Technologies Used: </h2>
+	
    - imbalanced-learn
    - Scikit-learn
    - Pandas
@@ -134,7 +142,8 @@ In this section, we compare two ensemble algorithms `Balanced Random Forest Clas
    - pathlib
    - Counter  
    - Jupyetr notebook
-     </div>
+
+</div>
 
 <div align="right">(<a href="#top">↥ back to top</a>)</div>
 <br/>
