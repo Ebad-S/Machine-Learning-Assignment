@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">Assignment Unit 11 - Risky Business</h1>
+<h1 align="center">Utilizing Machine Learning Models in a Risky Business</h1>
 
 <div align="center">    
     <section><img src="Images/risky1.png"/></section>
